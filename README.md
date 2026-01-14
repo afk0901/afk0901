@@ -8,9 +8,6 @@ I like talking about building, testing, and maintaining applications and I’m a
 ***Fun fact:*** I think about software systems and pizza ovens in surprisingly similar ways: throughput, bottlenecks, timing, and small optimizations that make everything run smoother.
 <br>
 
-![Views](https://komarev.com/ghpvc/?username=afk0901&repo=afk0901&style=flat)
-
-
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arnar.f.kristinsson) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arnar0901) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arnar-freyr-kristinsson-6317031ba) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@arnarfreyr16) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@arnarfreyrkristinsson) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arnarfkr@gmail.com) 
 
