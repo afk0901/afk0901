@@ -1,5 +1,5 @@
 # 💫 About Me
-I’m a software developer with a background in Python and a growing focus on React, currently building a Form Wizard application while deepening my understanding of modern frontend development. I enjoy working across the stack and very interested in how things are built, tested, maintained, and improved over time.
+I’m a software developer with a background in Python, currently building a Form Wizard application while deepening my understanding of modern frontend development. I enjoy working across the stack and very interested in how things are built, tested, maintained, and improved over time.
 
 After a longer, non-linear path, I’m actively preparing to re-enter the software development field with clearer priorities and stronger discipline.
 
