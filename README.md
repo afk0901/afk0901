@@ -5,7 +5,6 @@ After a longer, non-linear path, I’m actively preparing to re-enter the softwa
 
 I like talking about building, testing, and maintaining applications and I’m always curious about how different tools and approaches fit together in real-world systems.
 
-***Fun fact:*** I think about software systems and pizza ovens in surprisingly similar ways: throughput, bottlenecks, timing, and small optimizations that make everything run smoother.
 <br>
 
 ## 🌐 Socials
