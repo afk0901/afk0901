@@ -6,6 +6,9 @@ After a non-linear career path, I’m actively preparing to re-enter the softwar
 I enjoy discussing software design, testing practices, and the practical challenges of maintaining real-world applications, and I’m always curious about how different tools and approaches fit together in production systems.
 
 <br>
+## 🛠️ Currently working on ##
+
+[Form Wizard](https://github.com/afk0901/money_laundry_terrorism_front/) – multi-step workflow application with validation and PDF generation.
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arnar.f.kristinsson) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arnar0901) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arnar-freyr-kristinsson-6317031ba) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@arnarfreyr16) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@arnarfreyrkristinsson) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arnarfkr@gmail.com) 
