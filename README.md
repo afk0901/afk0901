@@ -1,9 +1,9 @@
 # 💫 About Me
-I’m a software developer with a background in Python, currently building a Form Wizard application while deepening my understanding of modern frontend development. I enjoy working across the stack and very interested in how things are built, tested, maintained, and improved over time.
+I’m a software developer with a Python background, currently building a Form Wizard application while deepening my understanding of modern frontend development. I enjoy working across the stack and am particularly interested in how systems are built, tested, maintained, and improved over time.
 
-After a longer, non-linear path, I’m actively preparing to re-enter the software development field with clearer priorities and stronger discipline.
+After a non-linear career path, I’m actively preparing to re-enter the software development field with clearer priorities and strong technical focus.
 
-I like talking about building, testing, and maintaining applications and I’m always curious about how different tools and approaches fit together in real-world systems.
+I enjoy discussing software design, testing practices, and the practical challenges of maintaining real-world applications, and I’m always curious about how different tools and approaches fit together in production systems.
 
 <br>
 
