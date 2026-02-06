@@ -3,7 +3,7 @@ I’m a software developer with a Python background, currently building applicat
 
 Following a non-linear career path, I’m actively preparing to re-enter the software development field with clearer priorities and strong technical focus.
 
-I enjoy discussing software design, testing practices, and the practical challenges of maintaining real-world applications, and I’m always curious about how different tools and approaches fit together in production systems.
+I enjoy exploring software design and testing practices, and how different tools and approaches fit together in production systems.
 
 <br>
 
